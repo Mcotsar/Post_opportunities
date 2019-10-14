@@ -1,4 +1,4 @@
-**POSTDOCTORAL**
+*** POSTDOCTORAL OPPORTUNITIES ***
 
 **General**
 
