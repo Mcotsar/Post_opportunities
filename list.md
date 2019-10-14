@@ -20,7 +20,7 @@
 * [Konstanz, Germany](https://scholarship-positions.com/bridge-postdoctoral-research-scholarships-university-konstanz-germany/2017/11/14/)
 * [FCT, Portugal](https://www.fct.pt/estatisticas/bolsas/)
 * [Finland](https://www.scholarshipsads.com/finland-tias-postdoctoral-research-positions-international-students-2018/#gs.9m4lqm)
-*
+
 
 
 
@@ -29,7 +29,7 @@
 * [ARIADNE’s Transnational Access (TNA)](https://ariadne-infrastructure.eu/transnational-access/)
 * [The British Academy Postdoctoral Fellowship](https://www.thebritishacademy.ac.uk/funding/british-academy-postdoctoral-fellowships)
 * [Postgraduate opportunities in archaeology](https://archpostgrad.wordpress.com/)
-* [Hnet][https://www.h-net.org/jobs/job_browse.php]
+* [Hnet](https://www.h-net.org/jobs/job_browse.php)
 
 
 **Spain**
