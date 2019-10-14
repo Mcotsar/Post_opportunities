@@ -2,13 +2,13 @@
 
 **General**
 
-[+ Euraxess](https://euraxess.ec.europa.eu)
-[+ Academic Transfer](https://www.academictransfer.com)
-+[Academic positions](https://academicpositions.es)
-+[Times higher Education](https://www.timeshighereducation.com)
-+[jobs.ac.uk](https://www.jobs.ac.uk)
-+[Marie Skłodowska-Curie actions](https://ec.europa.eu/research/mariecurieactions/)
-+[Gerda Henkel](https://www.gerda-henkel-stiftung.de/en/researchscholarships)
+* [Euraxess](https://euraxess.ec.europa.eu)
+* [Academic Transfer](https://www.academictransfer.com)
+[Academic positions](https://academicpositions.es)
+[Times higher Education](https://www.timeshighereducation.com)
+[jobs.ac.uk](https://www.jobs.ac.uk)
+[Marie Skłodowska-Curie actions](https://ec.europa.eu/research/mariecurieactions/)
+[Gerda Henkel](https://www.gerda-henkel-stiftung.de/en/researchscholarships)
 
 **Archaeology**
 
