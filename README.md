@@ -1,2 +1,2 @@
 # Post_opportunities
-Some postdoctoral research opportunities webpages
+Some postdoctoral research opportunities links
