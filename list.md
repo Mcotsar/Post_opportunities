@@ -21,6 +21,7 @@
 * [Konstanz, Germany](https://scholarship-positions.com/bridge-postdoctoral-research-scholarships-university-konstanz-germany/2017/11/14/)
 * [FCT, Portugal](https://www.fct.pt/estatisticas/bolsas/)
 * [Finland](https://www.scholarshipsads.com/finland-tias-postdoctoral-research-positions-international-students-2018/#gs.9m4lqm)
+* [Toulouse, Institute for Advanced Study](http://www.iast.fr/research-fellowships)
 
 
 
