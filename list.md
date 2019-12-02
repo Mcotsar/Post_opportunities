@@ -12,6 +12,7 @@
 * [Gerda Henkel](https://www.gerda-henkel-stiftung.de/en/researchscholarships)
 * [UK Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 * [NWO](https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/index.html)
+* [ESLR society](https://www.eslrsociety.org/jobs/)
 
 **Countries**
 
