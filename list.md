@@ -17,7 +17,7 @@
 
 **Countries**
 
-* [Burdeos, France](https://idex.u-bordeaux.fr/n/Talent-culture/International-Post-Doctorates/r3137.html)
+* [Bordeaux, France](https://idex.u-bordeaux.fr/n/Talent-culture/International-Post-Doctorates/r3137.html)
 * [Irish Research Council](http://research.ie/funding/goipd/)
 * [Durham International Junior Research Fellowships](https://www.dur.ac.uk/ias/diferens/junior/)
 * [Konstanz, Germany](https://scholarship-positions.com/bridge-postdoctoral-research-scholarships-university-konstanz-germany/2017/11/14/)
