@@ -14,6 +14,9 @@
 * [NWO](https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/index.html)
 * [ESLR society](https://www.eslrsociety.org/jobs/)
 * [Early Career Researchers CENTRAL](https://ecrcentral.org/fundings)
+* [Faculty vacancies](https://facultyvacancies.com/)
+* [Professor Positions](https://professorpositions.com)
+
 
 **Countries**
 
