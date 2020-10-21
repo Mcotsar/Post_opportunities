@@ -24,9 +24,12 @@
 * [Irish Research Council](http://research.ie/funding/goipd/)
 * [Durham International Junior Research Fellowships](https://www.dur.ac.uk/ias/diferens/junior/)
 * [Konstanz, Germany](https://scholarship-positions.com/bridge-postdoctoral-research-scholarships-university-konstanz-germany/2017/11/14/)
+* [Humboldt, Germany](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
 * [FCT, Portugal](https://www.fct.pt/estatisticas/bolsas/)
 * [Finland](https://www.scholarshipsads.com/finland-tias-postdoctoral-research-positions-international-students-2018/#gs.9m4lqm)
 * [Toulouse, Institute for Advanced Study](http://www.iast.fr/research-fellowships)
+* [JSPS, Japan](https://www.jsps.go.jp/english/e-fellow/postdoctoral.html)
+* [Newton, UK](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
 
 
 
@@ -44,6 +47,7 @@
 
 * [La Caixa](https://obrasociallacaixa.org/en/investigacion-y-becas/becas-de-la-caixa/posdoctorado-junior-leader/descripcion-del-programa)
 * [Juan de la Cierva](http://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=73d917cd13e77610VgnVCM1000001d04140aRCRD)
+* [Universidad del País Vasco/Euskal Herriko Universitatea](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/especializaci%C3%B3n-doctores-upvehu-2019-duplicado-1)
 
 **Others**
 * [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/)
