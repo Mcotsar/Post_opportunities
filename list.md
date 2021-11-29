@@ -49,6 +49,7 @@
 * [La Caixa](https://obrasociallacaixa.org/en/investigacion-y-becas/becas-de-la-caixa/posdoctorado-junior-leader/descripcion-del-programa)
 * [Juan de la Cierva](http://www.ciencia.gob.es/portal/site/MICINN/menuitem.dbc68b34d11ccbd5d52ffeb801432ea0/?vgnextoid=73d917cd13e77610VgnVCM1000001d04140aRCRD)
 * [Universidad del País Vasco/Euskal Herriko Universitatea](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/especializaci%C3%B3n-doctores-upvehu-2019-duplicado-1)
+* [Programa Atracción de Talento (CAM)](https://gestiona3.madrid.org/quadrivium/convocatorias/home/talento?cookieCheck=true)
 
 **Others**
 * [Dorothy Hodgkin Fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/)
